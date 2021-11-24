@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey
+My name is Hamza ,currently working as a front-end Developer at Nisum having 1 year experience and graduated from University of Karachi  
+
 
 <!--
 **MuhammadHamza096/MuhammadHamza096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
