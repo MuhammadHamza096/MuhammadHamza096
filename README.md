@@ -1,5 +1,5 @@
 ### Hey
-My name is Hamza ,currently working as a front-end Developer at Nisum having 1 year experience and graduated from University of Karachi  
+My name is Hamza, currently working as a front-end developer at Nisum. I'm curious about JavaScript, TypeScript, React and Node.
 
 
 <!--
