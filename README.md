@@ -5,25 +5,25 @@ I am a highly skilled and passionate Fullstack Engineer with over 4 years of exp
 ## Skills and Technologies
 I have expertise in the following technologies and tools:
 
-JavaScript
-TypeScript
-React.js
-Redux
-Vue.js
-Node.js
-Nest.js
-HTML
-CSS
-Bootstrap
-SemanticUI
-SQL
-MongoDB
-Material-UI
-Tailwind
-Jest
-React Testing Library
-Python
-Agile methodologies
+- JavaScript
+- TypeScript
+- React.js
+- Redux
+- Vue.js
+- Node.js
+- Nest.js
+- HTML
+- CSS
+- Bootstrap
+- SemanticUI
+- SQL
+- MongoDB
+- Material-UI
+- Tailwind
+- Jest
+- React Testing Library
+- Python
+- Agile methodologies
 
 ## Portfolio website
 My portfolio website showcasing my professional experience gained over 4 years, highlighting the projects I have worked on
