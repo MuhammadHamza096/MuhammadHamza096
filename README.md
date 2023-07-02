@@ -1,5 +1,29 @@
-My name is Hamza, currently working as a front-end developer at Nisum. I'm curious about JavaScript, TypeScript, React and Node.
+## Welcome to My GitHub Profile!
+### About Me
+I am a highly skilled and passionate Fullstack Engineer with over 4 years of experience in developing scalable and reliable applications using JavaScript and TypeScript. Currently, I am part of an agile development team at a leading US-based clinical health startup. In this role, I am responsible for designing and developing robust applications using ReactJS, Node.js, and Nest.js in a fast-paced environment.
 
+Skills and Technologies
+I have expertise in the following technologies and tools:
+
+JavaScript
+TypeScript
+React.js
+Redux
+Vue.js
+Node.js
+Nest.js
+HTML
+CSS
+Bootstrap
+SemanticUI
+SQL
+MongoDB
+Material-UI
+Tailwind
+Jest
+React Testing Library
+Python
+Agile methodologies
 
 <!--
 **MuhammadHamza096/MuhammadHamza096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
